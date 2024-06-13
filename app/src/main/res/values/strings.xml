@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">List and Grid View</string>
+    <string name="app_name">List Movies</string>
+    <string name="desc">Deskripsi</string>
+    <string name="title">judul</string>
 </resources>
